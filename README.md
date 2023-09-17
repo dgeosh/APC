@@ -1,4 +1,4 @@
 # APC
-Advanced Programming Club - Solutions
+Advanced Programming Club - On GitHub!
 
-Here, you can find solutions to USACO problems discussed in the Stanford OHS Advanced Programming Club!
+Here, you can find APC agendas, USACO problem solutions, and other club materials!
